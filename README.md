@@ -126,4 +126,5 @@ Content           : [{"name":"PersistenceProof","id":1,
                      "created_at":"2026-07-12T21:25:40.406753","description":null}]
 ```
 
-![Persistence proof screenshot](persistence-proof-1.png)
+<img width="1919" height="1079" alt="persistence-proof" src="https://github.com/user-attachments/assets/772f76cd-3e56-477d-b6cc-06bad29f5797" />
+
